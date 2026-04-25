@@ -21,7 +21,7 @@ Jenkins should: </br>
 * Deploy the containerized application
 
 With DevOps Approch I used several devops tools such as  <br>
-
+     
 - Git: Managed code changes with version control. </br>
 - Jenkins: Automated integration, testing, and deployment processes. </br>
 - Docker: Containerized applications for consistency and scalability. </br>
